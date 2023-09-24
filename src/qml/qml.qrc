@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ConnectionModal.qml</file>
+        <file>ConnectionInput.qml</file>
+        <file>ConnectionList.qml</file>
+    </qresource>
+</RCC>
