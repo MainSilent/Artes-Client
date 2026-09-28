@@ -55,14 +55,14 @@ Item {
 
                 ConnectionInput {
                     field: "username"
-                    title: "Username (Optional)"
+                    title: "Username"
                     Layout.leftMargin: 20
                     onValueChanged: username = value
                 }
 
                 ConnectionInput {
                     field: "password"
-                    title: "Password (Optional)"
+                    title: "Password"
                     setEchoMode: TextInput.Password
                     Layout.leftMargin: 20
                     onValueChanged: password = value

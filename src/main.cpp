@@ -18,7 +18,7 @@ int main(int argc, char *argv[])
 #endif
 
 #if !IS_MOBILE
-    qInstallMessageHandler(log);
+//    qInstallMessageHandler(log);
 #endif
 
     QQuickStyle::setStyle("Imagine");
